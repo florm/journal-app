@@ -42,6 +42,7 @@ export const NoteScreen = () => {
 					name='title'
 					value={title}
 					onChange={handleInputChange}
+					
 				/>
 
 				<textarea
